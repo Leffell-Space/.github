@@ -2,7 +2,7 @@
 
 This contains a collection of repositories used by the Leffell Space Program, mainly for the High Altitude Balloon that we are in the process of launching.
 
-#Team Members:
+# Team Members:
 - Raz Idan (Instructor)
 - Spencer Kolodny (26)
 - Ari Bellman (27)
